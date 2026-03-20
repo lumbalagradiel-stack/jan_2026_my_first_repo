@@ -1,5 +1,5 @@
 # jan_2026_my_first_repo
-# My First Git Repository
+ My First Git Repository
 
 ## Student Information
 
